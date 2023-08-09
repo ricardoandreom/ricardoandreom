@@ -9,7 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/halfspace_analytics/)
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HspaceAnalytics)
 
-#![ricardoandreom GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoandreom&show_icons=true&theme=dracula&count_private=true)
+![ricardoandreom GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoandreom&show_icons=true&theme=dracula&count_private=true)
+
 
 #![ricardoandreom most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoandreom&theme=dracula)
 
