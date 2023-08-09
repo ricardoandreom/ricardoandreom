@@ -12,7 +12,7 @@
 ![ricardoandreom GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ricardoandreom&show_icons=true&theme=dracula&count_private=true)
 
 
-#![ricardoandreom most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricardoandreom&theme=dracula)
+![ricardoandreom most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricardoandreom&theme=dracula)
 
 
 ## Technologies & Skills
