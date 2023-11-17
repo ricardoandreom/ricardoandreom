@@ -1,6 +1,6 @@
 ### Hello! I'm Ricardo André 🖐️
 
-## Data Analyst passionate about technology, football and creative solutions
+## Data Scientist passionate about technology, football and creative solutions
 
 
 [![Blog](https://img.shields.io/website?label=ricardoandreom.com&style=for-the-badge&url=https://ricardoandreom.github.io/ricardo_portfolio_page/)](https://ricardoandreom.github.io/ricardo_portfolio_page/)
