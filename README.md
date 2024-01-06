@@ -8,7 +8,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ricardoandreom)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/halfspace_analytics/)
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HspaceAnalytics)
-[![Kofi](https://img.shields.io/badge/Kofi-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HspaceAnalytics)
+[![Kofi](https://img.shields.io/badge/Kofi-00ACEE?style=for-the-badge&logo=kofi&logoColor=white)](https://twitter.com/HspaceAnalytics)
 
 
 ## Technologies & Skills
@@ -17,11 +17,11 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="tableau" src="https://img.shields.io/badge/POWERBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
 ## Frameworks
