@@ -3,7 +3,7 @@
 ## Data Scientist passionate about technology, football and creative solutions
 
 
-[![Blog](https://img.shields.io/website?label=ricardoandreom.com&style=for-the-badge&url=https://ricardoandreom.github.io/ricardo_portfolio_page/)](https://ricardoandreom.github.io/ricardo_portfolio_page/)
+[![Blog](https://img.shields.io/website?label=ricardoandreom.com&style=for-the-badge&url=https://ricardoandreom.github.io/ricardoandreom_portfolio/)](https://ricardoandreom.github.io/ricardo_portfolio_page/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoandreom/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ricardoandreom)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/halfspace_analytics/)
