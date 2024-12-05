@@ -30,9 +30,14 @@
   <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-14354C?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" alt="numpy" src="https://img.shields.io/badge/numpy-276DC3?style=for-the-badge&logo=numpy&logoColor=white" />
   <img align="center" alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-217346?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img align="center" alt="seaborn" src="https://img.shields.io/badge/Seaborn-217346?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img align="center" alt="streamlit" src="https://img.shields.io/badge/Streamlit-D83B01?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-D83B01?style=for-the-badge&logo=Flask&logoColor=white" />
+  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=Flask&logoColor=white" />
+  <img align="center" alt="django" src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Django&logoColor=white" />
+  <img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-FF6F00?style=for-the-badge&logo=Selenium&logoColor=white" />
+  <img align="center" alt="beautifulsoup" src="https://img.shields.io/badge/Beautifulsoup-FF6F00?style=for-the-badge&logo=BeautifulSoup&logoColor=white" />
+
   
 </div><br/>
 
