@@ -32,6 +32,7 @@
   <img align="center" alt="seaborn" src="https://img.shields.io/badge/Seaborn-217346?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img align="center" alt="Sklearn" src="https://img.shields.io/badge/Sklearn-FF6F00?style=for-the-badge&logo=Sklearn&logoColor=white" />
   <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img align="center" alt="langchain" src="https://img.shields.io/badge/Langchain-217346?style=for-the-badge&logo=langchain&logoColor=white" />
   <img align="center" alt="streamlit" src="https://img.shields.io/badge/Streamlit-D83B01?style=for-the-badge&logo=Streamlit&logoColor=white" />
   <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=Flask&logoColor=white" />
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Django&logoColor=white" />
