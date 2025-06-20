@@ -8,7 +8,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ricardoandreom)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/halfspace_analytics/)
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HspaceAnalytics)
-[![Kofi](https://img.shields.io/badge/Kofi-red?style=for-the-badge&logo=kofi&logoColor=white)](https://Ko-fi.com/ricardoandreom)
+
 
 
 ## Technologies & Skills
